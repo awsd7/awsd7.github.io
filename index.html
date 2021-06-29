@@ -41,7 +41,7 @@
 
 
 
-var diameter = 1900;
+var diameter = 3500;
 var startyear = 1873;
 var currentyear = 2021;
 var fill = 0.9;
@@ -66,7 +66,7 @@ var tree = d3.layout.tree()
 
 var diagonal = d3.svg.diagonal.radial()
     .source(function(d){ 
-        if(d.source.firstname=="") 
+        if(d.source.extra=="Wiktoria Szajer") 
           return {x: d.target.x, y: getY(d.source)}; 
         else 
           return {x: d.source.x, y: getY(d.source)};
@@ -80,7 +80,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 //d3.json(treeData, function(error, root) {
-d3.json("family6.json", function(error, root) {
+d3.json("https://raw.githubusercontent.com/awsd7/awsd7.github.io/main/family6.json", function(error, root) {
   if (error) throw error;
 
   var nodes = tree.nodes(root),
@@ -126,8 +126,8 @@ d3.json("family6.json", function(error, root) {
       .attr("dy", ".31em")
       .attr("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
       .attr("transform", function(d) { return d.x < 180 ? "translate(8)" : "rotate(180)translate(-8)"; })
-      .text(function(d) { return d.firstname;});
-	  //.text(function(d) { return d.x < 180 ? d.born + " "+d.firstname : d.firstname + "\r\n"+d.born; });
+      //.text(function(d) { return d.firstname;});
+	  .text(function(d) { return d.x < 180 ? d.born + " "+d.firstname + " " + d.lastname + " +" +d.extra : d.firstname + " " + d.lastname + " +" +d.extra + " " + d.born; });
 });
 
 d3.select(self.frameElement).style("height", diameter - 150 + "px");
