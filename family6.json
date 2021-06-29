@@ -1,4 +1,4 @@
-{"born": 1873, "firstname": "Andrzej", "lastname":"Albigowski", "root":1, "extra": "Wiktoria Szajer" , "children": [
+{"born": 1873, "firstname": "Andrzej", "lastname":"Albigowski", "aaa": "", "extra": "Wiktoria Szajer" , "children": [
     {"born": 1906, "firstname": "Józef", "lastname":"Albigowski", "extra": "Bronisława Kolek", "children": [
 		{"born": 1934, "firstname": "Stanisław", "lastname":"Albigowski", "extra": "Stanisława Cisek", "children": [
 			{"born": 1959, "firstname": "Jan", "lastname":"Albigowski", "extra": "Katarzyna Kogut", "children": [
