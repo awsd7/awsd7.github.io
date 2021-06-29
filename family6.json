@@ -1,4 +1,4 @@
-{"born": 1873, "firstname": "Andrzej", "lastname":"Albigowski", "aaa": "", "extra": "Wiktoria Szajer" , "children": [
+{"born": 1873, "firstname": "", "lastname":"", "aaa": "zzz", "extra": "" , "children": [
     {"born": 1906, "firstname": "Józef", "lastname":"Albigowski", "extra": "Bronisława Kolek", "children": [
 		{"born": 1934, "firstname": "Stanisław", "lastname":"Albigowski", "extra": "Stanisława Cisek", "children": [
 			{"born": 1959, "firstname": "Jan", "lastname":"Albigowski", "extra": "Katarzyna Kogut", "children": [
@@ -73,7 +73,7 @@
 				]}
 			]}
 		]},
-		{"born": 1941, "firstname": "Adam", "lastname":"Albigowski", "extra": "Anna Słupiecka", "children": [
+		{"born": 1941, "firstname": "Adam", "lastname":"Albigowski", "extra": "Anna Słupecka", "children": [
 			{"born": 1964, "firstname": "Tomasz", "lastname":"Albigowski", "extra": "Aneta Rejdak", "children": [
 				{"born": 1987, "firstname": "Marek", "lastname":"Albigowski", "extra": "", "children": [
 				]},
@@ -245,22 +245,22 @@
 				]}
 			]}
 		]},
-		{"born": 1936, "firstname": "Maria", "lastname":"Albigowska", "extra": "Jan Trojnar", "children": [
-			{"born": 1969, "firstname": "Ewa", "lastname":"Trojnar", "extra": "Mateusz Józefczyk", "children": [
+		{"born": 1936, "firstname": "Maria", "lastname":"Albigowska", "extra": "Jan Trojniar", "children": [
+			{"born": 1969, "firstname": "Ewa", "lastname":"Trojniar", "extra": "Mateusz Józefczyk", "children": [
 				{"born": 1998, "firstname": "Igor", "lastname":"Józefczyk", "extra": "", "children": [
 				]},
 				{"born": 1996, "firstname": "Kamil", "lastname":"Józefczyk", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1965, "firstname": "Paweł", "lastname":"Trojnar", "extra": "Iwona Bober", "children": [
-				{"born": 1988, "firstname": "Maciej", "lastname":"Trojnar", "extra": "Iza Kornak", "children": [
-					{"born": 2014, "firstname": "Eryk", "lastname":"Trojnar", "extra": ""},
-					{"born": 2011, "firstname": "Aleksander", "lastname":"Trojnar", "extra": ""}
+			{"born": 1965, "firstname": "Paweł", "lastname":"Trojniar", "extra": "Iwona Bober", "children": [
+				{"born": 1988, "firstname": "Maciej", "lastname":"Trojniar", "extra": "Iza Kornak", "children": [
+					{"born": 2014, "firstname": "Eryk", "lastname":"Trojniar", "extra": ""},
+					{"born": 2011, "firstname": "Aleksander", "lastname":"Trojniar", "extra": ""}
 				]},
-				{"born": 1989, "firstname": "Jakub", "lastname":"Trojnar", "extra": "", "children": [
+				{"born": 1989, "firstname": "Jakub", "lastname":"Trojniar", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1967, "firstname": "Anna", "lastname":"Trojnar", "extra": "Robert Ruszel", "children": [
+			{"born": 1967, "firstname": "Anna", "lastname":"Trojniar", "extra": "Robert Ruszel", "children": [
 				{"born": 2004, "firstname": "Adam", "lastname":"Ruszel", "extra": "", "children": [
 				]},
 				{"born": 2000, "firstname": "Aleksandra", "lastname":"Ruszel", "extra": "", "children": [
