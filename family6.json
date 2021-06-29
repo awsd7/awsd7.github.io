@@ -1,287 +1,287 @@
-{"born": 1873, "firstname": "", "children": [
-    {"born": 1906, "firstname": "a1", "children": [
-		{"born": 1934, "firstname": "a2", "children": [
-			{"born": 1959, "firstname": "a3", "children": [
-				{"born": 1984, "firstname": "a4", "children": [
-					{"born": 2011, "firstname": "a5"}
+{"born": 1873, "firstname": "Andrzej", "lastname":"Albigowski", "extra": "Wiktoria Szajer" , "children": [
+    {"born": 1906, "firstname": "Józef", "lastname":"Albigowski", "extra": "Bronisława Kolek", "children": [
+		{"born": 1934, "firstname": "Stanisław", "lastname":"Albigowski", "extra": "Stanisława Cisek", "children": [
+			{"born": 1959, "firstname": "Jan", "lastname":"Albigowski", "extra": "Katarzyna Kogut", "children": [
+				{"born": 1984, "firstname": "Sylwia", "lastname":"Albigowska", "extra": "Rafał Rozkoszny", "children": [
+					{"born": 2011, "firstname": "Kacper", "lastname":"Rozkoszny", "extra": ""}
 				]},
-				{"born": 1988, "firstname": "a4"}
+				{"born": 1988, "firstname": "Sabina", "lastname":"Albigowska", "extra": ""}
 			]},
-			{"born": 1958, "firstname": "a3", "children": [
-				{"born": 1982, "firstname": "a4", "children": [
-					{"born": 2015, "firstname": "a5", "children": [
+			{"born": 1958, "firstname": "Małgorzata", "lastname":"Albigowska", "extra": "Zygmunt Wacławski", "children": [
+				{"born": 1982, "firstname": "Barbara", "lastname":"Wacławska", "extra": "Paweł Chechłacz", "children": [
+					{"born": 2015, "firstname": "Tymon", "lastname":"Chechłacz", "extra": "", "children": [
 					]}
 				]},
-				{"born": 1993, "firstname": "a4", "children": [
+				{"born": 1993, "firstname": "Joanna", "lastname":"Wacławska", "extra": "", "children": [
 				]}
 			]}
 		]},
-		{"born": 1938, "firstname": "a2", "children": [
-			{"born": 1968, "firstname": "a3", "children": [
-				{"born": 1993, "firstname": "a4", "children": [
+		{"born": 1938, "firstname": "Krystyna", "lastname":"Albigowska", "extra": "Zdzisław Koprek", "children": [
+			{"born": 1968, "firstname": "Katarzyna", "lastname":"Koprek", "extra": "Jarosław Starzyk", "children": [
+				{"born": 1993, "firstname": "Kamil", "lastname":"Starzyk", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1973, "firstname": "a3", "children": [
+			{"born": 1973, "firstname": "Joanna", "lastname":"Koprek", "extra": "", "children": [
 			]}
 		]},
-		{"born": 1947, "firstname": "a2", "children": [
-			{"born": 1971, "firstname": "a3", "children": [
-				{"born": 2003, "firstname": "a4", "children": [
+		{"born": 1947, "firstname": "Elżbieta", "lastname":"Albigowska", "extra": "Tadeusz Klimza", "children": [
+			{"born": 1971, "firstname": "Agnieszka", "lastname":"Klimza", "extra": "Marek Drabicki", "children": [
+				{"born": 2003, "firstname": "Szymon", "lastname":"Drabicki", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1972, "firstname": "a3", "children": [
-				{"born": 2010, "firstname": "a4", "children": [
+			{"born": 1972, "firstname": "Teresa", "lastname":"Klimza", "extra": "Bogdan Kuźniar", "children": [
+				{"born": 2010, "firstname": "Jakub", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 1994, "firstname": "a4", "children": [
+				{"born": 1994, "firstname": "Marek", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 1992, "firstname": "a4", "children": [
-					{"born": 2014, "firstname": "a5"}
+				{"born": 1992, "firstname": "Mateusz", "lastname":"Kuźniar", "extra": "Marzena Płachta", "children": [
+					{"born": 2014, "firstname": "Eryk", "lastname":"Kuźniar", "extra": ""}
 				]}
 			]},
-			{"born": 1985, "firstname": "a3", "children": [
-				{"born": 2015, "firstname": "a4", "children": [
+			{"born": 1985, "firstname": "Michał", "lastname":"Klimza", "extra": "Ewelina Golenia", "children": [
+				{"born": 2015, "firstname": "Antoni", "lastname":"Klimza", "extra": "", "children": [
 				]},
-				{"born": 2010, "firstname": "a4", "children": [
+				{"born": 2010, "firstname": "Iga", "lastname":"Klimza", "extra": "", "children": [
 				]}
 			]}
 		]}
 	]},
-	{"born": 1907, "firstname": "a1", "children": [
-		{"born": 1937, "firstname": "a2", "children": [
-			{"born": 1971, "firstname": "a3", "children": [
-				{"born": 1995, "firstname": "a4", "children": [
+	{"born": 1907, "firstname": "Tadeusz", "lastname":"Albigowski", "extra": "Jadwiga Falger", "children": [
+		{"born": 1937, "firstname": "Anna", "lastname":"Albigowska", "extra": "Zdzisław Kemona", "children": [
+			{"born": 1971, "firstname": "Aneta", "lastname":"Kemona", "extra": "Adam Dobrowolski", "children": [
+				{"born": 1995, "firstname": "Urszula", "lastname":"Dobrowolska", "extra": "", "children": [
 				]},
-				{"born": 1999, "firstname": "a4", "children": [
+				{"born": 1999, "firstname": "Bartosz", "lastname":"Dobrowolski", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1957, "firstname": "a3", "children": [
-				{"born": 1985, "firstname": "a4", "children": [
+			{"born": 1957, "firstname": "Katarzyna", "lastname":"Kemona", "extra": "Jan Kędzierski, Ingo Flus", "children": [
+				{"born": 1985, "firstname": "Jan", "lastname":"", "extra": "", "children": [
 				]},
-				{"born": 1983, "firstname": "a4", "children": [
+				{"born": 1983, "firstname": "Szymon", "lastname":"", "extra": "", "children": [
 				]}
 			]}
 		]},
-		{"born": 1938, "firstname": "a2", "children": [
-			{"born": 1962, "firstname": "a3", "children": [
+		{"born": 1938, "firstname": "Barbara", "lastname":"Albigowska", "extra": "Tadeusz Łyko", "children": [
+			{"born": 1962, "firstname": "Piotr", "lastname":"Łyko", "extra": "Małgorzata Krawczyk", "children": [
 			]},
-			{"born": 1966, "firstname": "a3", "children": [
+			{"born": 1966, "firstname": "Agata", "lastname":"Łyko", "extra": "", "children": [
 			]},
-			{"born": 1967, "firstname": "a3", "children": [
-				{"born": 1996, "firstname": "a4", "children": [
+			{"born": 1967, "firstname": "Roman", "lastname":"Łyko", "extra": "Monika Wisz", "children": [
+				{"born": 1996, "firstname": "Radosław", "lastname":"Łyko", "extra": "", "children": [
 				]},
-				{"born": 1991, "firstname": "a4", "children": [
+				{"born": 1991, "firstname": "Grzegorz", "lastname":"Łyko", "extra": "", "children": [
 				]}
 			]}
 		]},
-		{"born": 1941, "firstname": "a2", "children": [
-			{"born": 1964, "firstname": "a3", "children": [
-				{"born": 1987, "firstname": "a4", "children": [
+		{"born": 1941, "firstname": "Adam", "lastname":"Albigowski", "extra": "Anna Słupiecka", "children": [
+			{"born": 1964, "firstname": "Tomasz", "lastname":"Albigowski", "extra": "Aneta Rejdak", "children": [
+				{"born": 1987, "firstname": "Marek", "lastname":"Albigowski", "extra": "", "children": [
 				]},
-				{"born": 1986, "firstname": "a4", "children": [
+				{"born": 1986, "firstname": "Katarzyna", "lastname":"Albigowska", "extra": "Wojciech Sodo", "children": [
 				]}
 			]},
-			{"born": 1968, "firstname": "a3", "children": [
-				{"born": 1998, "firstname": "a4", "children": [
+			{"born": 1968, "firstname": "Leszek", "lastname":"Albigowski", "extra": "Joanna Chruściel", "children": [
+				{"born": 1998, "firstname": "Kinga", "lastname":"Albigowska", "extra": "", "children": [
 				]},
-				{"born": 2000, "firstname": "a4", "children": [
+				{"born": 2000, "firstname": "Ernest", "lastname":"Albigowski", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1985, "firstname": "a3", "children": [
-				{"born": 2015, "firstname": "a4", "children": [
+			{"born": 1985, "firstname": "Małgorzata", "lastname":"Albigowska", "extra": "Grzegorz Menet", "children": [
+				{"born": 2015, "firstname": "Tymoteusz", "lastname":"Menet", "extra": "", "children": [
 				]}
 			]}
 		]},
-		{"born": 1945, "firstname": "a2", "children": [
-			{"born": 1969, "firstname": "a3", "children": [
-				{"born": 1995, "firstname": "a4", "children": [
+		{"born": 1945, "firstname": "Antoni", "lastname":"Albigowski", "extra": "Maria Goetz", "children": [
+			{"born": 1969, "firstname": "Agnieszka", "lastname":"Albigowska", "extra": "Adam Kuźniar", "children": [
+				{"born": 1995, "firstname": "Marek", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 1996, "firstname": "a4", "children": [
+				{"born": 1996, "firstname": "Urszula", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 1997, "firstname": "a4", "children": [
+				{"born": 1997, "firstname": "Jakub", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 2008, "firstname": "a4", "children": [
+				{"born": 2008, "firstname": "Iwona", "lastname":"Kuźniar", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1973, "firstname": "a3", "children": [
-				{"born": 2012, "firstname": "a4", "children": [
+			{"born": 1973, "firstname": "Izabella", "lastname":"Albigowska", "extra": "Artur Dyczko", "children": [
+				{"born": 2012, "firstname": "Wojciech", "lastname":"Dyczko", "extra": "", "children": [
 				]},
-				{"born": 2000, "firstname": "a4", "children": [
+				{"born": 2000, "firstname": "Krzysztof", "lastname":"Dyczko", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1975, "firstname": "a3", "children": [
-				{"born": 1995, "firstname": "a4", "children": [
+			{"born": 1975, "firstname": "Natalia", "lastname":"Albigowska", "extra": "Mirosław Mailinger", "children": [
+				{"born": 1995, "firstname": "Arkadiusz", "lastname":"Mailinger", "extra": "", "children": [
 				]},
-				{"born": 2007, "firstname": "a4", "children": [
+				{"born": 2007, "firstname": "Mateusz", "lastname":"Mailinger", "extra": "", "children": [
 				]}
 			]}
 		]}
 	]},
-	{"born": 1913, "firstname": "a1", "children": [
-		{"born": 1943, "firstname": "a2", "children": [
-			{"born": 1969, "firstname": "a3", "children": [
-				{"born": 2005, "firstname": "a4", "children": [
+	{"born": 1913, "firstname": "Zofia", "lastname":"Albigowska", "extra": "Jan Kuźniar, Józef Bęgowski", "children": [
+		{"born": 1943, "firstname": "Jakub", "lastname":"Kuźniar", "extra": "Jolanta Laska", "children": [
+			{"born": 1969, "firstname": "Tomasz", "lastname":"Kuźniar", "extra": "Kamila Kasibowska", "children": [
+				{"born": 2005, "firstname": "Fredryk", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 1998, "firstname": "a4", "children": [
+				{"born": 1998, "firstname": "Albert", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 2009, "firstname": "a4", "children": [
+				{"born": 2009, "firstname": "Emma", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 2008, "firstname": "a4", "children": [
+				{"born": 2008, "firstname": "Wilhelm", "lastname":"Kuźniar", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1972, "firstname": "a3", "children": [
-				{"born": 2008, "firstname": "a4", "children": [
+			{"born": 1972, "firstname": "Maciej", "lastname":"Kuźniar", "extra": "Marta Kucharska", "children": [
+				{"born": 2008, "firstname": "Maja", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 2003, "firstname": "a4", "children": [
+				{"born": 2003, "firstname": "Marcin", "lastname":"Kuźniar", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1983, "firstname": "a3", "children": [
+			{"born": 1983, "firstname": "Krzysztof", "lastname":"Kuźniar", "extra": "", "children": [
 			]}
 		]},
-		{"born": 1939, "firstname": "a2", "children": [
-			{"born": 1967, "firstname": "a3", "children": [
-				{"born": 1988, "firstname": "a4", "children": [
+		{"born": 1939, "firstname": "Janusz", "lastname":"Kuźniar", "extra": "Jadwiga Lenert", "children": [
+			{"born": 1967, "firstname": "Małgorzata", "lastname":"Kuźniar", "extra": "Marek Kuczyński, Tomasz Kuchtyn", "children": [
+				{"born": 1988, "firstname": "Ewa", "lastname":"", "extra": "", "children": [
 				]},
-				{"born": 1996, "firstname": "a4", "children": [
+				{"born": 1996, "firstname": "Kacper", "lastname":"", "extra": "", "children": [
 				]},
-				{"born": 2007, "firstname": "a4", "children": [
+				{"born": 2007, "firstname": "Michał", "lastname":"", "extra": "", "children": [
 				]},
-				{"born": 2003, "firstname": "a4", "children": [
+				{"born": 2003, "firstname": "Aleksandra", "lastname":"", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1975, "firstname": "a3", "children": [
-				{"born": 2004, "firstname": "a4", "children": [
+			{"born": 1975, "firstname": "Bartosz", "lastname":"Kuźniar", "extra": "Monika Baran", "children": [
+				{"born": 2004, "firstname": "Maksymilian", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 2002, "firstname": "a4", "children": [
+				{"born": 2002, "firstname": "Zofia", "lastname":"Kuźniar", "extra": "", "children": [
 				]},
-				{"born": 1997, "firstname": "a4", "children": [
+				{"born": 1997, "firstname": "Zuzanna", "lastname":"Kuźniar", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1970, "firstname": "a3", "children": [
+			{"born": 1970, "firstname": "Ewa", "lastname":"Kuźniar", "extra": "", "children": [
 			]}
 		]},
-		{"born": 1948, "firstname": "a2", "children": [
-			{"born": 1973, "firstname": "a3", "children": [
-				{"born": 2007, "firstname": "a4", "children": [
+		{"born": 1948, "firstname": "Tadeusz", "lastname":"Kuźniar", "extra": "Maria Łoboz", "children": [
+			{"born": 1973, "firstname": "Anna", "lastname":"Kuźniar", "extra": "Wojciech Hryń", "children": [
+				{"born": 2007, "firstname": "Mathew", "lastname":"Hryń", "extra": "", "children": [
 				]},
-				{"born": 2008, "firstname": "a4", "children": [
+				{"born": 2008, "firstname": "Sophie", "lastname":"Hryń", "extra": "", "children": [
 				]},
-				{"born": 2015, "firstname": "a4", "children": [
+				{"born": 2015, "firstname": "Daniel", "lastname":"Hryń", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1975, "firstname": "a3", "children": [
-				{"born": 2010, "firstname": "a4", "children": [
+			{"born": 1975, "firstname": "Magdalena", "lastname":"Kuźniar", "extra": "Marek Chrostowski", "children": [
+				{"born": 2010, "firstname": "Jonathan", "lastname":"Chrostowski", "extra": "", "children": [
 				]},
-				{"born": 2009, "firstname": "a4", "children": [
+				{"born": 2009, "firstname": "Adam", "lastname":"Chrostowski", "extra": "", "children": [
 				]},
-				{"born": 2015, "firstname": "a4", "children": [
+				{"born": 2015, "firstname": "Danielle", "lastname":"Chrostowska", "extra": "", "children": [
 				]},
-				{"born": 2005, "firstname": "a4", "children": [
+				{"born": 2005, "firstname": "Lukas", "lastname":"Chrostowski", "extra": "", "children": [
 				]}
 			]}
 		]}
 	]},
-	{"born": 1901, "firstname": "a1", "children": [
-		{"born": 1943, "firstname": "a2", "children": [
-			{"born": 1969, "firstname": "a3", "children": [
+	{"born": 1901, "firstname": "Antonina", "lastname":"Albigowska", "extra": "Władysław Bałuciński, Antoni Nidental", "children": [
+		{"born": 1943, "firstname": "Maria", "lastname":"Nidental", "extra": "Bogusłąw Januszewski", "children": [
+			{"born": 1969, "firstname": "Joanna", "lastname":"Januszewska", "extra": "Grzegorz Czochara", "children": [
 			]},
-			{"born": 1964, "firstname": "a3", "children": [
-				{"born": 1988, "firstname": "a4", "children": [
+			{"born": 1964, "firstname": "Małgorzata", "lastname":"Januszewska", "extra": "Wojciech Magryś", "children": [
+				{"born": 1988, "firstname": "Dominika", "lastname":"Magryś", "extra": "Michał Żądło", "children": [
 				]}
 			]},
-			{"born": 1976, "firstname": "a3", "children": [
+			{"born": 1976, "firstname": "Agnieszka", "lastname":"Januszewska", "extra": "Alex Strożyński", "children": [
 			]}
 		]},
-		{"born": 1939, "firstname": "a2", "children": [
-			{"born": 1966, "firstname": "a3", "children": [
-				{"born": 1997, "firstname": "a4", "children": [
+		{"born": 1939, "firstname": "Jacek", "lastname":"Nidental", "extra": "Anna Wierzbicka", "children": [
+			{"born": 1966, "firstname": "Tomasz", "lastname":"Nidental", "extra": "Anita Stłuczeń", "children": [
+				{"born": 1997, "firstname": "Tomasz", "lastname":"Nidental", "extra": "", "children": [
 				]}
 			]}
 		]}
 	]},
-	{"born": 1902, "firstname": "a1", "children": [
-		{"born": 1942, "firstname": "a2", "children": [
-			{"born": 1973, "firstname": "a3", "children": [
-				{"born": 1998, "firstname": "a4", "children": [
+	{"born": 1902, "firstname": "Władysław", "lastname":"Albigowski", "extra": "Anna Gorogoń", "children": [
+		{"born": 1942, "firstname": "Jadwiga", "lastname":"Albigowska", "extra": "Jan Cedzidło", "children": [
+			{"born": 1973, "firstname": "Anna", "lastname":"Cedzidło", "extra": "Mateusz Wołącewicz", "children": [
+				{"born": 1998, "firstname": "Kinga", "lastname":"Wołącewicz", "extra": "", "children": [
 				]},
-				{"born": 2006, "firstname": "a4", "children": [
+				{"born": 2006, "firstname": "Weronika", "lastname":"Wołącewicz", "extra": "", "children": [
 				]},
-				{"born": 2001, "firstname": "a4", "children": [
+				{"born": 2001, "firstname": "Marta", "lastname":"Wołącewicz", "extra": "", "children": [
 				]},
-				{"born": 2010, "firstname": "a4", "children": [
+				{"born": 2010, "firstname": "Natalia", "lastname":"Wołącewicz", "extra": "", "children": [
 				]}
 			]}
 		]},
-		{"born": 1934, "firstname": "a2", "children": [
-			{"born": 1964, "firstname": "a3", "children": [
-				{"born": 1984, "firstname": "a4", "children": [
-					{"born": 2015, "firstname": "a5"}
+		{"born": 1934, "firstname": "Andrzej", "lastname":"Albigowski", "extra": "Zofia Tarkowska", "children": [
+			{"born": 1964, "firstname": "Marek", "lastname":"Albigowski", "extra": "Krystyna Czerniak", "children": [
+				{"born": 1984, "firstname": "Maciej", "lastname":"Albigowski", "extra": "Monika", "children": [
+					{"born": 2015, "firstname": "Ala", "lastname":"Albigowska", "extra": ""}
 				]},
-				{"born": 1996, "firstname": "a4", "children": [
+				{"born": 1996, "firstname": "Marta", "lastname":"Albigowska", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1959, "firstname": "a3", "children": [
-				{"born": 1989, "firstname": "a4", "children": [
+			{"born": 1959, "firstname": "Małgorzata", "lastname":"Albigowska", "extra": "Krzysztof Linek", "children": [
+				{"born": 1989, "firstname": "Michał", "lastname":"Linek", "extra": "", "children": [
 				]},
-				{"born": 1985, "firstname": "a4", "children": [
-					{"born": 2013, "firstname": "a5"},
-					{"born": 2015, "firstname": "a5"}
+				{"born": 1985, "firstname": "Magdalena", "lastname":"Linek", "extra": "Artur Zychal", "children": [
+					{"born": 2013, "firstname": "Maria", "lastname":"Zychal", "extra": ""},
+					{"born": 2015, "firstname": "Przemek", "lastname":"Zychal", "extra": ""}
 				]}
 			]}
 		]},
-		{"born": 1939, "firstname": "a2", "children": [
-			{"born": 1965, "firstname": "a3", "children": [
+		{"born": 1939, "firstname": "Jan", "lastname":"Albigowski", "extra": "Bronisława Dubiel", "children": [
+			{"born": 1965, "firstname": "Ewa", "lastname":"Albigowska", "extra": "", "children": [
 			]},
-			{"born": 1965, "firstname": "a3", "children": [
-				{"born": 1985, "firstname": "a4", "children": [
-					{"born": 2011, "firstname": "a5"}
+			{"born": 1965, "firstname": "Adam", "lastname":"Albigowski", "extra": "Alicja Kołodziej", "children": [
+				{"born": 1985, "firstname": "Katarzyna", "lastname":"Albigowska", "extra": "Łukasz Ryś", "children": [
+					{"born": 2011, "firstname": "Michał", "lastname":"Ryś", "extra": ""}
 				]},
-				{"born": 1988, "firstname": "a4", "children": [
+				{"born": 1988, "firstname": "Magdalena", "lastname":"Albigowska", "extra": "Daniel Kunysz", "children": [
 				]}
 			]},
-			{"born": 1971, "firstname": "a3", "children": [
-				{"born": 2006, "firstname": "a4", "children": [
+			{"born": 1971, "firstname": "Jacek", "lastname":"Albigowski", "extra": "Karina Skopal", "children": [
+				{"born": 2006, "firstname": "Julia", "lastname":"Albigowska", "extra": "", "children": [
 				]},
-				{"born": 2008, "firstname": "a4", "children": [
+				{"born": 2008, "firstname": "Miłosz", "lastname":"Albigowski", "extra": "", "children": [
 				]}
 			]}
 		]},
-		{"born": 1936, "firstname": "a2", "children": [
-			{"born": 1969, "firstname": "a3", "children": [
-				{"born": 1998, "firstname": "a4", "children": [
+		{"born": 1936, "firstname": "Maria", "lastname":"Albigowska", "extra": "Jan Trojnar", "children": [
+			{"born": 1969, "firstname": "Ewa", "lastname":"Trojnar", "extra": "Mateusz Józefczyk", "children": [
+				{"born": 1998, "firstname": "Igor", "lastname":"Józefczyk", "extra": "", "children": [
 				]},
-				{"born": 1996, "firstname": "a4", "children": [
+				{"born": 1996, "firstname": "Kamil", "lastname":"Józefczyk", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1965, "firstname": "a3", "children": [
-				{"born": 1988, "firstname": "a4", "children": [
-					{"born": 2014, "firstname": "a5"},
-					{"born": 2011, "firstname": "a5"}
+			{"born": 1965, "firstname": "Paweł", "lastname":"Trojnar", "extra": "Iwona Bober", "children": [
+				{"born": 1988, "firstname": "Maciej", "lastname":"Trojnar", "extra": "Iza Kornak", "children": [
+					{"born": 2014, "firstname": "Eryk", "lastname":"Trojnar", "extra": ""},
+					{"born": 2011, "firstname": "Aleksander", "lastname":"Trojnar", "extra": ""}
 				]},
-				{"born": 1989, "firstname": "a4", "children": [
+				{"born": 1989, "firstname": "Jakub", "lastname":"Trojnar", "extra": "", "children": [
 				]}
 			]},
-			{"born": 1967, "firstname": "a3", "children": [
-				{"born": 2004, "firstname": "a4", "children": [
+			{"born": 1967, "firstname": "Anna", "lastname":"Trojnar", "extra": "Robert Ruszel", "children": [
+				{"born": 2004, "firstname": "Adam", "lastname":"Ruszel", "extra": "", "children": [
 				]},
-				{"born": 2000, "firstname": "a4", "children": [
+				{"born": 2000, "firstname": "Aleksandra", "lastname":"Ruszel", "extra": "", "children": [
 				]},
-				{"born": 1995, "firstname": "a4", "children": [
+				{"born": 1995, "firstname": "Agata", "lastname":"Ruszel", "extra": "", "children": [
 				]},
-				{"born": 1994, "firstname": "a4", "children": [
+				{"born": 1994, "firstname": "Jacek", "lastname":"Ruszel", "extra": "", "children": [
 				]}
 			]}
 		]}
 	]},
-	{"born": 1904, "firstname": "a1", "children": [
-		{"born": 1929, "firstname": "a2", "children": [
+	{"born": 1904, "firstname": "Jadwiga", "lastname":"Albigowska", "extra": "Jan Domka", "children": [
+		{"born": 1929, "firstname": "Janina", "lastname":"Domka", "extra": "Adam Maziak", "children": [
 		]},
-		{"born": 1937, "firstname": "a2", "children": [
-			{"born": 1966, "firstname": "a3", "children": [
-				{"born": 1988, "firstname": "a4", "children": [
-				]}
+		{"born": 1937, "firstname": "Danuta", "lastname":"Domka", "extra": "Stanisław Markowicz", "children": [
+			{"born": 1966, "firstname": "Monika", "lastname":"Markowicz", "extra": "", "children": [
 			]},
-			{"born": 1968, "firstname": "a3", "children": [
-				{"born": 1994, "firstname": "a4", "children": [
+			{"born": 1968, "firstname": "Jakub", "lastname":"Markowicz", "extra": "Urszula Pietrzak", "children": [
+				{"born": 1994, "firstname": "Iga", "lastname":"Markowicz", "extra": "", "children": [
+				]},
+				{"born": 1988, "firstname": "Albert", "lastname":"Markowicz", "extra": "", "children": [
 				]}
 			]}
 		]}
