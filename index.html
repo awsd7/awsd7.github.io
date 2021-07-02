@@ -71,7 +71,7 @@ var tree = d3.layout.tree()
 
 var diagonal = d3.svg.diagonal.radial()
 	.source(function(d){ 
-		if(d.source.aaa=="") 
+		if(d.source.aaa=="zzz") 
 			return {x: d.target.x, y: getY(d.source)}; 
 		else 
 			return {x: d.source.x, y: getY(d.source)};
@@ -86,7 +86,7 @@ var svg = d3.select("body")
 	.append("g")
 		.attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 //d3.json(treeData, function(error, root) {
-d3.json("https://raw.githubusercontent.com/awsd7/awsd7.github.io/main/family6.json", function(error, root) {
+d3.json("family6.json", function(error, root) {
 	if (error) throw error;
 
 	var nodes = tree.nodes(root),
